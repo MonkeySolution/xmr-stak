@@ -1,4 +1,4 @@
-###### fireice-uk's and psychocrypt's
+###### fireice-uk and psychocrypt's
 # XMR-Stak - Monero/Aeon All-in-One Mining Software
 
 XMR-Stak is a universal Stratum pool miner. This miner supports CPUs, AMD and NVIDIA gpus and can be used to mine the crypto currency Monero and Aeon.
